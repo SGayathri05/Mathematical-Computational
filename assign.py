@@ -42,6 +42,10 @@ if cost_matrix is not None:
     st.write(f"Total cost: {total_cost}")
 
     
+#-------------------------------------------------------------------------------------------------------------------
+
+#  NOTE THIS IS SECOND SOLUTION FOR THE SAME ASSIGNMENT PROBLEM:
+
 
 import streamlit as st 
 from scipy.optimize import linear_sum_assignment 
