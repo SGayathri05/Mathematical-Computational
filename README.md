@@ -11,7 +11,7 @@ REQUIREMENTS:
 
 •	Streamlit will be installed
 
-•	Now open the required file copy the path of that particular type streamlit run tru.py (filename say tru.py) The file will be launched in local host and perform the required operations
+•	Now open the required file, copy the path of that particular file, type streamlit run tru.py (filename say tru.py) The file will be launched in your local host and perform the required operations
 
 FILES UPLOADED
 
