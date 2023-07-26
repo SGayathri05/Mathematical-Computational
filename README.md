@@ -15,17 +15,17 @@ REQUIREMENTS:
 
 FILES UPLOADED
 
-1.	Truth Table – tru.py, truth.py
-2.	Simplex – simpli.py
+1.	Truth Table – truth_table_1.py, truth_table_2.py
+2.	Simplex – simplex_method.py
 3.	Big M – bigmn.py
-4.	Dual Simplex – duali.py, duu.py
-5.	Master Theorem – master.py
+4.	Dual Simplex – dualsimplex.py, dualsimplex2.py
+5.	Master Theorem – master_theorem.py
 6.	Recursion using factorial – recursion.py
-7.	North West Corner Method – nw.py
-8.	Vogel Approximation Method – trans.py, vogu.py
-9.	Least Cost Method – least.py
-10.	Assignment Problem - assign.py
-11.	PERT – pertt.py
+7.	North West Corner Method – north_west_corner.py
+8.	Vogel Approximation Method – transportation.py, vogel_method.py
+9.	Least Cost Method – least_cost_method.py
+10.	Assignment Problem - assignment_problem.py
+11.	PERT – pert.py
 12.	CPM – cpm.py, cpmm.py
-13.	Linear Regression – lin2.py, linear.py (upload the csv file)
-14.	Multiple Linear Regression – mul.py, multi.py (upload the csv file)
+13.	Linear Regression – linear_regression_2.py, linear_regression.py (upload the csv file)
+14.	Multiple Linear Regression – multiple_regression.py, multiple_regression_2.py (upload the csv file)
